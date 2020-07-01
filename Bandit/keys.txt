@@ -1,0 +1,28 @@
+lvl 0:
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
+lvl 8:
+sort data.txt | uniq -u
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
+lvl 9:
+strings data.txt | grep '=='
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+lvl 10:
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+lvl 11:
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+
+lvl 12:
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+lvl 13:
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+
+lvl 14:
+ nc localhost 30000
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+lvl 15:
